@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Arrow
+GenericName=Video & Music Downloader
+Comment=High-Speed Video & Music Downloader for Linux
+Exec=/home/mdriouec/projects/yt_downloader/run.sh
+Icon=/home/mdriouec/projects/yt_downloader/assets/icon.png
+Terminal=false
+Type=Application
+Categories=AudioVideo;Network;
+StartupNotify=true
+StartupWMClass=arrow
+Keywords=YouTube;Music;Video;Download;Audio;MP3;MP4;
+
